@@ -28,6 +28,6 @@ Continuously developing practical skills through structured learning and hands-o
 
 ---
 
-**Author:** Shehani Madhushika  
-**Field:** Industrial Information Technology  
-**University:** Uva Wellassa University, Sri Lanka
+Author: Madhushika  Shehani
+Field: Industrial Information Technology  
+University: Uva Wellassa University, Sri Lanka
